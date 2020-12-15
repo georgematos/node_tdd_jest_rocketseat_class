@@ -1,4 +1,3 @@
-const { password } = require('../../config/database')
 const { User } = require('../models')
 
 class SessionController {
